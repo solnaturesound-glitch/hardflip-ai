@@ -1,0 +1,14 @@
+{
+  "node": {
+    "ea3defcee2c33936b7967f1820938a009ef290e8": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fcristiansol%2F.openclaw%2Fworkspace%2Fhardflip-ai%2Fsrc%2Fcomponents%2FNavbar.tsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "Vl2+0M5KA/Z0XOFf6TvQovdoE51Hj6GOEXsUgyJ2EWI="
+}
